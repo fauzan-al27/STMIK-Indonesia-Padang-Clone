@@ -4,7 +4,7 @@
 Web ini dibuat dengan tujuan untuk menyelesaikan lomba web design yang di adakan oleh STMIK Indonesia Padang. Web ini merupakan hasil Re-Design terhadap web STMIK Indonesia Padang (http://stmikindonesia.ac.id/)
 
 ## Tools
-Pembuatan web ini menggunakan framework Bootstrap, css native, dan sedikit bumbu javascript
+Pembuatan web ini menggunakan framework Bootstrap, css native, dan sedikit bumbu javascript.
 
 ## Author
 Design: Muhammad Fauzan Alkhairi
